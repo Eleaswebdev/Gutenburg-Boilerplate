@@ -69,7 +69,7 @@ It is better to run **npm run build** firstly for new block registration, then s
 
 This plugin is designed and developed by Eleas Kanchon - [@eleaskanchon](https://github.com/Eleaswebdev)
 
--   Founder of [MakeGutenBlock](https://makegutenblock.com)
+-   Founder of [WhizPlugins](https://profiles.wordpress.org/whizplugins/)
 
 ## Feedback
 
